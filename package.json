@@ -1,0 +1,17 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "This is tutorial of youtube backend design ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "expressjs",
+    "mongoose"
+  ],
+  "author": "Suraj Dubey",
+  "license": "ISC"
+}
